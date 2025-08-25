@@ -51,5 +51,4 @@
 ---
 
 ## 📈 GitHub Activity
-![Khalif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalif-Coding&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalif-Coding&layout=compact&theme=tokyonight)
