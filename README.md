@@ -42,6 +42,7 @@
 ---
 
 ## 📌 Pinned Projects
+- 🔍 **[Reinforcement Learning](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-029-hck-group-001)** - Contextual Bandit Optimization for Real-Time Marketing Decisions
 - 🚧 **[Road Defects Detection](https://github.com/Khalif-Coding/Road-Defects-Detection)** – Detecting road defects with CNN (DenseNet121 & MobileNetV2), deployed via Streamlit  
 - ⌚ **[Luxury Watches Database Management](https://github.com/Khalif-Coding/Luxury-Watches-Database-Management)** – Automated ETL pipeline with Airflow and Elasticsearch  
 - 💡 **[Insurance Premium Cost Prediction](https://github.com/Khalif-Coding/Insurance-Premium-Cost-Prediction)** – Predicting premium prices using Random Forest Regression  
